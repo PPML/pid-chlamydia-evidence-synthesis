@@ -1,2 +1,2 @@
 # pid-chlamydia-evidence-synthesis
-TA Trikalinos - Technical Appendix - Probability of Pelivc Inflammatory Diseases in Chlamydia trachomatis infection
+TA Trikalinos - Technical Appendix - Probability of pelivc inflammatory disease in Chlamydia trachomatis infection
