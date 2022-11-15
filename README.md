@@ -1,2 +1,2 @@
 # pid-chlamydia-evidence-synthesis
-TA Trikalinos - Technical Appendix - Probability of pelivc inflammatory disease in Chlamydia trachomatis infection
+TA Trikalinos. 2018. Technical Appendix: Probability of pelvic inflammatory disease in Chlamydia trachomatis infection
